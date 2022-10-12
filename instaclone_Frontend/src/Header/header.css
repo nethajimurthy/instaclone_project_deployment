@@ -1,0 +1,27 @@
+.Header{
+    width: 100vw;
+    height: 104px;
+    border-bottom: 1px solid rgb(4, 72, 15);
+    margin-bottom: 20px ;
+}
+.logoarea{
+    padding-top: 10px;
+    padding-left: 50px;
+    display: flex;
+    float: left;
+    color: rgb(4, 88, 31);
+}
+
+.logoarea > img{
+    padding-top: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+.cameraarea{
+    padding-top: 20px;
+    padding-right: 100px;
+    height: 48px;
+    width: 48px;
+    float: right;
+}
